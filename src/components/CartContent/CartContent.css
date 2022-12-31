@@ -1,0 +1,38 @@
+.cartContent{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 30px;
+
+}
+
+.cartContent > img {
+    height: 120px;
+    width: 100px;
+    text-align: center;
+}
+
+.cartTotal{
+    text-align: center;
+}
+
+.cart-message-center {
+    text-align: center;
+    margin-top: 40px;
+}
+.counter-button {
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .counter-value {
+    margin-top: 20px;
+  }
+  
+  .cart-delete-button {
+    cursor: pointer;
+  }
+
+  .cart-delete-button {
+    cursor: pointer;
+  }

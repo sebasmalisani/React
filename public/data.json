@@ -1,0 +1,56 @@
+[
+    {
+        "id" : 1,
+        "name": "Spaghetti",
+        "precio": 600,
+        "quanty": 1,
+        "img": "https://img.freepik.com/fotos-premium/paquete-transparente-pasta-espagueti-o-capellini-aislado-sobre-fondo-blanco_461160-2596.jpg?w=2000",
+        "stock": 100
+
+    },
+    {
+        "id" : 2,
+        "name": "Penne",
+        "precio": 700,
+        "quanty": 1,
+        "img": "https://m.media-amazon.com/images/I/51mBEfw0-iL._SY550_.jpg",
+        "stock": 100
+
+    },
+    {
+        "id" : 3,
+        "name": "Macaroni",
+        "precio": 500,
+        "quanty": 1,
+        "img": "https://m.media-amazon.com/images/I/61B2Mja5IxL.jpg",
+        "stock": 100
+
+    },
+    {
+        "id" : 4,
+        "name": "Pappardelle",
+        "precio": 800,
+        "quanty": 1,
+        "img": "https://www.vincenzosplate.com/wp-content/uploads/2020/09/homemade-pappardelle.png",
+        "stock": 100
+
+    },
+    {
+        "id" : 5,
+        "name": "Fusilli",
+        "precio": 600,
+        "quanty": 1,
+        "img": "https://img2.rtve.es/imagenes/nueva-receta-italiana-pasta-fusilli-crema-calabacin/1594230080186.jpg",
+        "stock": 100
+
+    },
+    {
+        "id" : 6,
+        "name": "Fettuccine",
+        "precio": 800,
+        "quanty": 1,
+        "img": "https://www.dececco.com/wp-content/uploads/2018/05/0SW0233-FETTUCCINE-2.png",
+        "stock": 100
+
+    }
+]

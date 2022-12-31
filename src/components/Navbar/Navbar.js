@@ -13,8 +13,6 @@ const Navbar = () => {
             <nav className="navbar">
             <h1 className="navbar-logo">Shop de Sebas</h1>
             <p className="navbar-logo">Pastas</p>
-            <p className="navbar-logo">Salsas</p>
-            <p className="navbar-logo">Bebidas</p>
             <Link className="seeCarrito" to={"/cart"}>
                 🛒
             {cart.length > 0 ? <ProductsCounter/> : null}
